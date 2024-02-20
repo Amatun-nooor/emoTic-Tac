@@ -72,7 +72,7 @@ export default function Start() {
       </ButtonsContainer>
       <Footer>
         <FooterLink
-          href="https://github.com/Amatun-nooor"
+          href="https://amatunnoor.vercel.app/"
           target="_blank"
         >
           Made with 🤍 by Amatun-Noor
