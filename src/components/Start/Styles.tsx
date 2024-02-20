@@ -32,7 +32,7 @@ export const Title = styled(motion.h1)`
   font-weight: 800;
 
   @media screen and (min-width: 500px) {
-    font-size: 60px;
+    font-size: 40px;
   }
 `;
 
